@@ -5,4 +5,12 @@ datasets/
 .ipynb_checkpoints/
 
 # Jupyter Notebook files
-*.ipynb
+ 
+# Virtual Environment
+.venv/
+
+# Jupyter
+.jupyter
+
+# IDE
+.idea/
