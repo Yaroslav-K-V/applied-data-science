@@ -4,7 +4,7 @@ Exploratory data analysis exercises using Python, pandas, and seaborn.
 
 ## Notebook
 
-**DSL.ipynb** — two dataset analyses in a single notebook:
+**DSL.ipynb** — three dataset analyses in a single notebook:
 
 ### London Houses
 - Source: [London Real Estate and Housing Market Dataset (Kaggle)](https://www.kaggle.com/datasets/abubakerasiel/london-real-estate-and-housing-market-dataset/data)
@@ -18,7 +18,13 @@ Exploratory data analysis exercises using Python, pandas, and seaborn.
 - Revenue, profit margins, ROI ratio, per-unit metrics
 - Top customers, regional heatmaps, time series trends, payment distribution
 
-> Both datasets are synthetic — the analyses serve as a technical exercise.
+### Computer Science Students
+- Source: [Computer Science Students Performance (Kaggle)](https://www.kaggle.com/datasets/nalisha/computer-science-students-performance)
+- 180 students across 27 interested domains
+- GPA distribution by gender, programming skills (Python, SQL, Java) vs GPA
+- Domain → career pathway heatmap, skill profile combinations, student profile by domain
+
+> All datasets are synthetic — the analyses serve as a technical exercise.
 
 ## Setup
 
